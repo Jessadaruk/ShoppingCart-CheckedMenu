@@ -1,0 +1,102 @@
+D:\OOP\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.exe
+D:\OOP\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.deps.json
+D:\OOP\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.runtimeconfig.json
+D:\OOP\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.dll
+D:\OOP\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.pdb
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.Form1.resources
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.GenerateResource.cache
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfo.cs
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.sourcelink.json
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.dll
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\refint\ShoppingCart.dll
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.pdb
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.genruntimeconfig.cache
+D:\OOP\ShoppingCart\obj\Debug\net8.0-windows\ref\ShoppingCart.dll
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.Form1.resources
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.GenerateResource.cache
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfo.cs
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.dll
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\refint\ShoppingCart.dll
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.pdb
+D:\c#\ShoppingCart\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.exe
+D:\c#\ShoppingCart\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.deps.json
+D:\c#\ShoppingCart\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.runtimeconfig.json
+D:\c#\ShoppingCart\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.dll
+D:\c#\ShoppingCart\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.pdb
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.genruntimeconfig.cache
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ref\ShoppingCart.dll
+D:\c#\ShoppingCart\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.Properties.Resources.resources
+D:\NewAs\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.exe
+D:\NewAs\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.deps.json
+D:\NewAs\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.runtimeconfig.json
+D:\NewAs\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.dll
+D:\NewAs\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.pdb
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.Form1.resources
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.Properties.Resources.resources
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.GenerateResource.cache
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfo.cs
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.dll
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\refint\ShoppingCart.dll
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.pdb
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.genruntimeconfig.cache
+D:\NewAs\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ref\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.Form1.resources
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.Properties.Resources.resources
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfo.cs
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\refint\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.exe
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.deps.json
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.runtimeconfig.json
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\bin\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ShoppingCart.genruntimeconfig.cache
+C:\Users\jedsa\Downloads\ShoppingNwe\Shopping_Cart-main\ShoppingCart\obj\Debug\net8.0-windows\ref\ShoppingCart.dll
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.exe
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.deps.json
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.runtimeconfig.json
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.Form1.resources
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.Properties.Resources.resources
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfo.cs
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\refint\ShoppingCart.dll
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.genruntimeconfig.cache
+C:\Users\NK 2314\Downloads\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ref\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.exe
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.deps.json
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.runtimeconfig.json
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\bin\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.Form1.resources
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.Properties.Resources.resources
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.csproj.GenerateResource.cache
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.AssemblyInfo.cs
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\refint\ShoppingCart.dll
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.pdb
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ShoppingCart.genruntimeconfig.cache
+C:\Users\jedsa\Downloads\ShoppingCARTWorkC#\ShoppingCART_Discount-main\ShoppingCART_Discount-main\SP-cartNewdiscount\obj\Debug\net8.0-windows\ref\ShoppingCart.dll
